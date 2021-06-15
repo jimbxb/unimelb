@@ -5,7 +5,7 @@
 ### Distributed Algorithms -- COMP90020
 [Project][comp90020-project]
 ### Parallel and Multicore Computing -- COMP90025
-[Project 2A][comp90025-proj2a], [Project 2A][comp90025-proj2b], [Project 2A][comp90025-proj3]
+[Project 2A][comp90025-proj2a], [Project 2B][comp90025-proj2b], [Project 3][comp90025-proj3]
 ### Programming Language Implementation -- COMP90045
 [Project][comp90045-project], [Examples][roo-examples]
 ### Introduction to Machine Learning -- COMP90049
